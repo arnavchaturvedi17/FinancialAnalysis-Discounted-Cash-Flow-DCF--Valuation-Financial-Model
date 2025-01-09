@@ -1,0 +1,2 @@
+# FinancialAnalysis-Discounted-Cash-Flow-DCF--Valuation-Financial-Model
+[Using Excel, Accounting, Financial knowledge]. The DCF model is a valuation method to estimate the value of an investment based on its expected future cash flow. It calculates the present value of future cash flows, considering the "time value of money" principle, i.e. money received today is worth more than the same amount received in the future.
